@@ -6,9 +6,9 @@ import java.nio.charset.Charset
 import java.util.*
 import kotlin.concurrent.thread
 
-class DataSendr {
+
     fun main() {
-        val address = "192.168.1.89"
+        val address = "44.202.228.119"
         val port = 9999
 
         val client = Client2(address, port)
@@ -51,4 +51,3 @@ class DataSendr {
         }
     }
 
-}
