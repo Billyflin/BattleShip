@@ -23,64 +23,64 @@
             android:layout_height="match_parent" >
 
             <Button
-                android:id="@+id/button121"
+                android:id="@+id/a1"
                 android:layout_width="15pt"
                 android:layout_height="15pt"
-                android:text="Button" />
+                />
 
             <Button
-                android:id="@+id/button122"
+                android:id="@+id/a2"
                 android:layout_width="15pt"
                 android:layout_height="15pt"
-                android:text="Button" />
+                />
 
             <Button
-                android:id="@+id/button123"
+                android:id="@+id/a3"
                 android:layout_width="15pt"
                 android:layout_height="15pt"
-                android:text="Button" />
+                />
 
             <Button
-                android:id="@+id/button124"
+                android:id="@+id/a4"
                 android:layout_width="15pt"
                 android:layout_height="15pt"
-                android:text="Button" />
+                />
 
             <Button
-                android:id="@+id/button125"
+                android:id="@+id/a5"
                 android:layout_width="15pt"
                 android:layout_height="15pt"
-                android:text="Button" />
+                />
 
             <Button
-                android:id="@+id/button126"
+                android:id="@+id/a6"
                 android:layout_width="15pt"
                 android:layout_height="15pt"
-                android:text="Button" />
+                />
 
             <Button
-                android:id="@+id/button127"
+                android:id="@+id/a7"
                 android:layout_width="15pt"
                 android:layout_height="15pt"
-                android:text="Button" />
+                />
 
             <Button
-                android:id="@+id/button128"
+                android:id="@+id/a8"
                 android:layout_width="15pt"
                 android:layout_height="15pt"
-                android:text="Button" />
+                />
 
             <Button
-                android:id="@+id/button129"
+                android:id="@+id/a9"
                 android:layout_width="15pt"
                 android:layout_height="15pt"
-                android:text="Button" />
+                />
 
             <Button
-                android:id="@+id/button130"
+                android:id="@+id/a10"
                 android:layout_width="15pt"
                 android:layout_height="15pt"
-                android:text="Button" />
+                />
         </TableRow>
 
         <TableRow
@@ -88,64 +88,64 @@
             android:layout_height="match_parent" >
 
             <Button
-                android:id="@+id/button111"
+                android:id="@+id/b1"
                 android:layout_width="15pt"
                 android:layout_height="15pt"
-                android:text="Button" />
+                />
 
             <Button
-                android:id="@+id/button112"
+                android:id="@+id/b2"
                 android:layout_width="15pt"
                 android:layout_height="15pt"
-                android:text="Button" />
+                />
 
             <Button
-                android:id="@+id/button113"
+                android:id="@+id/b3"
                 android:layout_width="15pt"
                 android:layout_height="15pt"
-                android:text="Button" />
+                />
 
             <Button
-                android:id="@+id/button114"
+                android:id="@+id/b4"
                 android:layout_width="15pt"
                 android:layout_height="15pt"
-                android:text="Button" />
+                />
 
             <Button
-                android:id="@+id/button115"
+                android:id="@+id/b5"
                 android:layout_width="15pt"
                 android:layout_height="15pt"
-                android:text="Button" />
+                />
 
             <Button
-                android:id="@+id/button116"
+                android:id="@+id/b6"
                 android:layout_width="15pt"
                 android:layout_height="15pt"
-                android:text="Button" />
+                />
 
             <Button
-                android:id="@+id/button117"
+                android:id="@+id/b7"
                 android:layout_width="15pt"
                 android:layout_height="15pt"
-                android:text="Button" />
+                />
 
             <Button
-                android:id="@+id/button118"
+                android:id="@+id/b8"
                 android:layout_width="15pt"
                 android:layout_height="15pt"
-                android:text="Button" />
+                />
 
             <Button
-                android:id="@+id/button119"
+                android:id="@+id/b9"
                 android:layout_width="15pt"
                 android:layout_height="15pt"
-                android:text="Button" />
+                />
 
             <Button
-                android:id="@+id/button120"
+                android:id="@+id/b10"
                 android:layout_width="15pt"
                 android:layout_height="15pt"
-                android:text="Button" />
+                />
         </TableRow>
 
         <TableRow
@@ -153,64 +153,64 @@
             android:layout_height="match_parent" >
 
             <Button
-                android:id="@+id/button101"
+                android:id="@+id/c1"
                 android:layout_width="15pt"
                 android:layout_height="15pt"
-                android:text="Button" />
+                />
 
             <Button
-                android:id="@+id/button102"
+                android:id="@+id/c2"
                 android:layout_width="15pt"
                 android:layout_height="15pt"
-                android:text="Button" />
+                />
 
             <Button
-                android:id="@+id/button103"
+                android:id="@+id/c3"
                 android:layout_width="15pt"
                 android:layout_height="15pt"
-                android:text="Button" />
+                />
 
             <Button
-                android:id="@+id/button104"
+                android:id="@+id/c4"
                 android:layout_width="15pt"
                 android:layout_height="15pt"
-                android:text="Button" />
+                />
 
             <Button
-                android:id="@+id/button105"
+                android:id="@+id/c5"
                 android:layout_width="15pt"
                 android:layout_height="15pt"
-                android:text="Button" />
+                />
 
             <Button
-                android:id="@+id/button106"
+                android:id="@+id/c6"
                 android:layout_width="15pt"
                 android:layout_height="15pt"
-                android:text="Button" />
+                />
 
             <Button
-                android:id="@+id/button107"
+                android:id="@+id/c7"
                 android:layout_width="15pt"
                 android:layout_height="15pt"
-                android:text="Button" />
+                />
 
             <Button
-                android:id="@+id/button108"
+                android:id="@+id/c8"
                 android:layout_width="15pt"
                 android:layout_height="15pt"
-                android:text="Button" />
+                />
 
             <Button
-                android:id="@+id/button109"
+                android:id="@+id/c9"
                 android:layout_width="15pt"
                 android:layout_height="15pt"
-                android:text="Button" />
+                />
 
             <Button
-                android:id="@+id/button110"
+                android:id="@+id/c10"
                 android:layout_width="15pt"
                 android:layout_height="15pt"
-                android:text="Button" />
+                />
         </TableRow>
 
         <TableRow
@@ -218,64 +218,64 @@
             android:layout_height="match_parent" >
 
             <Button
-                android:id="@+id/button91"
+                android:id="@+id/d1"
                 android:layout_width="15pt"
                 android:layout_height="15pt"
-                android:text="Button" />
+                />
 
             <Button
-                android:id="@+id/button92"
+                android:id="@+id/d2"
                 android:layout_width="15pt"
                 android:layout_height="15pt"
-                android:text="Button" />
+                />
 
             <Button
-                android:id="@+id/button93"
+                android:id="@+id/d3"
                 android:layout_width="15pt"
                 android:layout_height="15pt"
-                android:text="Button" />
+                />
 
             <Button
-                android:id="@+id/button94"
+                android:id="@+id/d4"
                 android:layout_width="15pt"
                 android:layout_height="15pt"
-                android:text="Button" />
+                />
 
             <Button
-                android:id="@+id/button95"
+                android:id="@+id/d5"
                 android:layout_width="15pt"
                 android:layout_height="15pt"
-                android:text="Button" />
+                />
 
             <Button
-                android:id="@+id/button96"
+                android:id="@+id/d6"
                 android:layout_width="15pt"
                 android:layout_height="15pt"
-                android:text="Button" />
+                />
 
             <Button
-                android:id="@+id/button97"
+                android:id="@+id/d7"
                 android:layout_width="15pt"
                 android:layout_height="15pt"
-                android:text="Button" />
+                />
 
             <Button
-                android:id="@+id/button98"
+                android:id="@+id/d8"
                 android:layout_width="15pt"
                 android:layout_height="15pt"
-                android:text="Button" />
+                />
 
             <Button
-                android:id="@+id/button99"
+                android:id="@+id/d9"
                 android:layout_width="15pt"
                 android:layout_height="15pt"
-                android:text="Button" />
+                />
 
             <Button
-                android:id="@+id/button100"
+                android:id="@+id/d10"
                 android:layout_width="15pt"
                 android:layout_height="15pt"
-                android:text="Button" />
+                />
         </TableRow>
 
         <TableRow
@@ -283,64 +283,64 @@
             android:layout_height="match_parent" >
 
             <Button
-                android:id="@+id/button81"
+                android:id="@+id/e1"
                 android:layout_width="15pt"
                 android:layout_height="15pt"
-                android:text="Button" />
+                />
 
             <Button
-                android:id="@+id/button82"
+                android:id="@+id/e2"
                 android:layout_width="15pt"
                 android:layout_height="15pt"
-                android:text="Button" />
+                />
 
             <Button
-                android:id="@+id/button83"
+                android:id="@+id/e3"
                 android:layout_width="15pt"
                 android:layout_height="15pt"
-                android:text="Button" />
+                />
 
             <Button
-                android:id="@+id/button84"
+                android:id="@+id/e4"
                 android:layout_width="15pt"
                 android:layout_height="15pt"
-                android:text="Button" />
+                />
 
             <Button
-                android:id="@+id/button85"
+                android:id="@+id/e5"
                 android:layout_width="15pt"
                 android:layout_height="15pt"
-                android:text="Button" />
+                />
 
             <Button
-                android:id="@+id/button86"
+                android:id="@+id/e6"
                 android:layout_width="15pt"
                 android:layout_height="15pt"
-                android:text="Button" />
+                />
 
             <Button
-                android:id="@+id/button87"
+                android:id="@+id/e7"
                 android:layout_width="15pt"
                 android:layout_height="15pt"
-                android:text="Button" />
+                />
 
             <Button
-                android:id="@+id/button88"
+                android:id="@+id/e8"
                 android:layout_width="15pt"
                 android:layout_height="15pt"
-                android:text="Button" />
+                />
 
             <Button
-                android:id="@+id/button89"
+                android:id="@+id/e9"
                 android:layout_width="15pt"
                 android:layout_height="15pt"
-                android:text="Button" />
+                />
 
             <Button
-                android:id="@+id/button90"
+                android:id="@+id/e10"
                 android:layout_width="15pt"
                 android:layout_height="15pt"
-                android:text="Button" />
+                />
         </TableRow>
 
         <TableRow
@@ -348,64 +348,64 @@
             android:layout_height="match_parent" >
 
             <Button
-                android:id="@+id/button71"
+                android:id="@+id/f1"
                 android:layout_width="15pt"
                 android:layout_height="15pt"
-                android:text="Button" />
+                />
 
             <Button
-                android:id="@+id/button72"
+                android:id="@+id/f2"
                 android:layout_width="15pt"
                 android:layout_height="15pt"
-                android:text="Button" />
+                />
 
             <Button
-                android:id="@+id/button73"
+                android:id="@+id/f3"
                 android:layout_width="15pt"
                 android:layout_height="15pt"
-                android:text="Button" />
+                />
 
             <Button
-                android:id="@+id/button74"
+                android:id="@+id/f4"
                 android:layout_width="15pt"
                 android:layout_height="15pt"
-                android:text="Button" />
+                />
 
             <Button
-                android:id="@+id/button75"
+                android:id="@+id/f5"
                 android:layout_width="15pt"
                 android:layout_height="15pt"
-                android:text="Button" />
+                />
 
             <Button
-                android:id="@+id/button76"
+                android:id="@+id/f6"
                 android:layout_width="15pt"
                 android:layout_height="15pt"
-                android:text="Button" />
+                />
 
             <Button
-                android:id="@+id/button77"
+                android:id="@+id/f7"
                 android:layout_width="15pt"
                 android:layout_height="15pt"
-                android:text="Button" />
+                />
 
             <Button
-                android:id="@+id/button78"
+                android:id="@+id/f8"
                 android:layout_width="15pt"
                 android:layout_height="15pt"
-                android:text="Button" />
+                />
 
             <Button
-                android:id="@+id/button79"
+                android:id="@+id/f9"
                 android:layout_width="15pt"
                 android:layout_height="15pt"
-                android:text="Button" />
+                />
 
             <Button
-                android:id="@+id/button80"
+                android:id="@+id/f10"
                 android:layout_width="15pt"
                 android:layout_height="15pt"
-                android:text="Button" />
+                />
         </TableRow>
 
         <TableRow
@@ -413,64 +413,64 @@
             android:layout_height="match_parent" >
 
             <Button
-                android:id="@+id/button61"
+                android:id="@+id/g1"
                 android:layout_width="15pt"
                 android:layout_height="15pt"
-                android:text="Button" />
+                />
 
             <Button
-                android:id="@+id/button62"
+                android:id="@+id/g2"
                 android:layout_width="15pt"
                 android:layout_height="15pt"
-                android:text="Button" />
+                />
 
             <Button
-                android:id="@+id/button63"
+                android:id="@+id/g3"
                 android:layout_width="15pt"
                 android:layout_height="15pt"
-                android:text="Button" />
+                />
 
             <Button
-                android:id="@+id/button64"
+                android:id="@+id/g4"
                 android:layout_width="15pt"
                 android:layout_height="15pt"
-                android:text="Button" />
+                />
 
             <Button
-                android:id="@+id/button65"
+                android:id="@+id/g5"
                 android:layout_width="15pt"
                 android:layout_height="15pt"
-                android:text="Button" />
+                />
 
             <Button
-                android:id="@+id/button66"
+                android:id="@+id/g6"
                 android:layout_width="15pt"
                 android:layout_height="15pt"
-                android:text="Button" />
+                />
 
             <Button
-                android:id="@+id/button67"
+                android:id="@+id/g7"
                 android:layout_width="15pt"
                 android:layout_height="15pt"
-                android:text="Button" />
+                />
 
             <Button
-                android:id="@+id/button68"
+                android:id="@+id/g8"
                 android:layout_width="15pt"
                 android:layout_height="15pt"
-                android:text="Button" />
+                />
 
             <Button
-                android:id="@+id/button69"
+                android:id="@+id/g9"
                 android:layout_width="15pt"
                 android:layout_height="15pt"
-                android:text="Button" />
+                />
 
             <Button
-                android:id="@+id/button70"
+                android:id="@+id/g10"
                 android:layout_width="15pt"
                 android:layout_height="15pt"
-                android:text="Button" />
+                />
         </TableRow>
 
         <TableRow
@@ -478,64 +478,64 @@
             android:layout_height="match_parent" >
 
             <Button
-                android:id="@+id/button51"
+                android:id="@+id/h1"
                 android:layout_width="15pt"
                 android:layout_height="15pt"
-                android:text="Button" />
+                />
 
             <Button
-                android:id="@+id/button52"
+                android:id="@+id/h2"
                 android:layout_width="15pt"
                 android:layout_height="15pt"
-                android:text="Button" />
+                />
 
             <Button
-                android:id="@+id/button53"
+                android:id="@+id/h3"
                 android:layout_width="15pt"
                 android:layout_height="15pt"
-                android:text="Button" />
+                />
 
             <Button
-                android:id="@+id/button54"
+                android:id="@+id/h4"
                 android:layout_width="15pt"
                 android:layout_height="15pt"
-                android:text="Button" />
+                />
 
             <Button
-                android:id="@+id/button55"
+                android:id="@+id/h5"
                 android:layout_width="15pt"
                 android:layout_height="15pt"
-                android:text="Button" />
+                />
 
             <Button
-                android:id="@+id/button56"
+                android:id="@+id/h6"
                 android:layout_width="15pt"
                 android:layout_height="15pt"
-                android:text="Button" />
+                />
 
             <Button
-                android:id="@+id/button57"
+                android:id="@+id/h7"
                 android:layout_width="15pt"
                 android:layout_height="15pt"
-                android:text="Button" />
+                />
 
             <Button
-                android:id="@+id/button58"
+                android:id="@+id/h8"
                 android:layout_width="15pt"
                 android:layout_height="15pt"
-                android:text="Button" />
+                />
 
             <Button
-                android:id="@+id/button59"
+                android:id="@+id/h9"
                 android:layout_width="15pt"
                 android:layout_height="15pt"
-                android:text="Button" />
+                />
 
             <Button
-                android:id="@+id/button60"
+                android:id="@+id/h10"
                 android:layout_width="15pt"
                 android:layout_height="15pt"
-                android:text="Button" />
+                />
         </TableRow>
 
         <TableRow
@@ -543,64 +543,64 @@
             android:layout_height="match_parent" >
 
             <Button
-                android:id="@+id/button41"
+                android:id="@+id/i1"
                 android:layout_width="15pt"
                 android:layout_height="15pt"
-                android:text="Button" />
+                />
 
             <Button
-                android:id="@+id/button42"
+                android:id="@+id/i2"
                 android:layout_width="15pt"
                 android:layout_height="15pt"
-                android:text="Button" />
+                />
 
             <Button
-                android:id="@+id/button43"
+                android:id="@+id/i3"
                 android:layout_width="15pt"
                 android:layout_height="15pt"
-                android:text="Button" />
+                />
 
             <Button
-                android:id="@+id/button44"
+                android:id="@+id/i4"
                 android:layout_width="15pt"
                 android:layout_height="15pt"
-                android:text="Button" />
+                />
 
             <Button
-                android:id="@+id/button45"
+                android:id="@+id/i5"
                 android:layout_width="15pt"
                 android:layout_height="15pt"
-                android:text="Button" />
+                />
 
             <Button
-                android:id="@+id/button46"
+                android:id="@+id/i6"
                 android:layout_width="15pt"
                 android:layout_height="15pt"
-                android:text="Button" />
+                />
 
             <Button
-                android:id="@+id/button47"
+                android:id="@+id/i7"
                 android:layout_width="15pt"
                 android:layout_height="15pt"
-                android:text="Button" />
+                />
 
             <Button
-                android:id="@+id/button48"
+                android:id="@+id/i8"
                 android:layout_width="15pt"
                 android:layout_height="15pt"
-                android:text="Button" />
+                />
 
             <Button
-                android:id="@+id/button49"
+                android:id="@+id/i9"
                 android:layout_width="15pt"
                 android:layout_height="15pt"
-                android:text="Button" />
+                />
 
             <Button
-                android:id="@+id/button50"
+                android:id="@+id/i10"
                 android:layout_width="15pt"
                 android:layout_height="15pt"
-                android:text="Button" />
+                />
         </TableRow>
 
         <TableRow
@@ -608,64 +608,64 @@
             android:layout_height="match_parent">
 
             <Button
-                android:id="@+id/button40"
+                android:id="@+id/j1"
                 android:layout_width="15pt"
                 android:layout_height="15pt"
-                android:text="Button" />
+                />
 
             <Button
-                android:id="@+id/button39"
+                android:id="@+id/j2"
                 android:layout_width="15pt"
                 android:layout_height="15pt"
-                android:text="Button" />
+                />
 
             <Button
-                android:id="@+id/button38"
+                android:id="@+id/j3"
                 android:layout_width="15pt"
                 android:layout_height="15pt"
-                android:text="Button" />
+                />
 
             <Button
-                android:id="@+id/button37"
+                android:id="@+id/j4"
                 android:layout_width="15pt"
                 android:layout_height="15pt"
-                android:text="Button" />
+                />
 
             <Button
-                android:id="@+id/button36"
+                android:id="@+id/j5"
                 android:layout_width="15pt"
                 android:layout_height="15pt"
-                android:text="Button" />
+                />
 
             <Button
-                android:id="@+id/button35"
+                android:id="@+id/j6"
                 android:layout_width="15pt"
                 android:layout_height="15pt"
-                android:text="Button" />
+                />
 
             <Button
-                android:id="@+id/button34"
+                android:id="@+id/j7"
                 android:layout_width="15pt"
                 android:layout_height="15pt"
-                android:text="Button" />
+                />
 
             <Button
-                android:id="@+id/button33"
+                android:id="@+id/j8"
                 android:layout_width="15pt"
                 android:layout_height="15pt"
-                android:text="Button" />
+                />
 
             <Button
-                android:id="@+id/button32"
+                android:id="@+id/j9"
                 android:layout_width="15pt"
                 android:layout_height="15pt"
-                android:text="Button" />
+                />
 
             <Button
-                android:id="@+id/button31"
+                android:id="@+id/j10"
                 android:layout_width="15pt"
                 android:layout_height="15pt"
-                android:text="Button" />
+                />
 
         </TableRow>
 
