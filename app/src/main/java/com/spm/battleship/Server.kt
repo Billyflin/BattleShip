@@ -33,20 +33,20 @@ class ClientHandler(client: Socket) {
     fun run() {
         running = true
         // Welcome message
-
         while (running) {
             try {
                 val text = reader.nextLine()
-                if (text == "EXIT"){
+                if (text == "EXIT") {
                     shutdown()
                     continue
                 }
-                if (text == "B"){
-                    val pos = "&{idjuego}, {a1,a2,a3,a4}, {b3,b4,b5},{h3,h4,h5}"
-                    write(pos)
+                val values = text.split(' ')
+                if (text == "host") {
+                    val query = roomDeliver(values[0], values[1], values[2])
+                    write(query.toString())
+                    continue
                 }
 
-                val values = text.split(' ')
                 val result = calculator.calculate(values[0].toInt(), values[1].toInt(), values[2])
                 write(result)
             } catch (ex: Exception) {
@@ -58,6 +58,7 @@ class ClientHandler(client: Socket) {
         }
     }
 
+
     private fun write(message: String) {
         writer.write((message + '\n').toByteArray(Charset.defaultCharset()))
     }
@@ -68,7 +69,17 @@ class ClientHandler(client: Socket) {
         println("${client.inetAddress.hostAddress} closed the connection")
     }
 
+    fun roomDeliver(a: String, b: String, c: String): String {
+        when (c) {
+            "host" -> return listOf(a, b, client.inetAddress.hostAddress).toString()
+            else -> {
+                return "Something whent wrong"
+            }
+        }
+    }
 }
+
+    //id ,sala,
 
 class Calculator {
 
@@ -84,15 +95,15 @@ class Calculator {
         }
     }
 
-    // A Calculator (functional programming)
-    private fun <T> calc(a: T, b: T, operation: (T, T) -> T): T {
-        return operation(a, b)
+        // A Calculator (functional programming)
+        private fun <T> calc(a: T, b: T, operation: (T, T) -> T): T {
+            return operation(a, b)
+        }
+
+        private fun add(a: Int, b: Int): Int = a + b
+        private fun sub(a: Int, b: Int): Int = a - b
+        private fun div(a: Double, b: Double): Double = a / b
+        private fun multi(a: Int, b: Int): Int = a * b
+
     }
 
-    private fun add(a: Int, b: Int): Int = a + b
-    private fun sub(a: Int, b: Int): Int = a - b
-    private fun div(a: Double, b: Double): Double = a / b
-    private fun multi(a: Int, b: Int): Int = a * b
-
-
-}

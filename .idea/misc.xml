@@ -4,12 +4,13 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/billy/AndroidStudioProjects/BattleShip/app/src/main/res/layout/activity_main.xml" value="0.17135416666666667" />
+        <entry key="..\:/Users/billy/AndroidStudioProjects/BattleShip/app/src/main/res/layout/ship_item.xml" value="0.1" />
         <entry key="..\:/Users/sebac/StudioProjects/BattleShip/app/src/main/res/drawable/stylo_bordes_editext.xml" value="0.3245" />
         <entry key="..\:/Users/sebac/StudioProjects/BattleShip/app/src/main/res/layout/activity_position.xml" value="0.25" />
       </map>
     </option>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="11" project-jdk-type="JavaSDK">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>
   <component name="ProjectType">
