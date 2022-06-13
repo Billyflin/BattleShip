@@ -26,19 +26,19 @@
                 android:id="@+id/a1"
                 android:layout_width="15pt"
                 android:layout_height="15pt"
-                />
+                style="?android:attr/buttonBarButtonStyle" />
 
             <Button
                 android:id="@+id/a2"
                 android:layout_width="15pt"
                 android:layout_height="15pt"
-                />
+                style="?android:attr/buttonBarButtonStyle" />
 
             <Button
                 android:id="@+id/a3"
                 android:layout_width="15pt"
                 android:layout_height="15pt"
-                />
+                style="?android:attr/buttonBarButtonStyle" />
 
             <Button
                 android:id="@+id/a4"
@@ -671,4 +671,3 @@
 
     </TableLayout>
 </androidx.constraintlayout.widget.ConstraintLayout>
-    tools:context=".Position"/>
