@@ -24,38 +24,41 @@
 
             <Button
                 android:id="@+id/a1"
-                android:layout_width="15pt"
-                android:layout_height="15pt"
+                android:layout_width="10dp"
+                android:layout_height="wrap_content"
                 style="?android:attr/buttonBarButtonStyle" />
 
             <Button
                 android:id="@+id/a2"
-                android:layout_width="15pt"
-                android:layout_height="15pt"
-                style="?android:attr/buttonBarButtonStyle" />
+                android:layout_width="10dp"
+                android:layout_height="wrap_content"
+                style="?android:attr/buttonBarButtonStyle"/>
 
             <Button
                 android:id="@+id/a3"
-                android:layout_width="15pt"
-                android:layout_height="15pt"
+                android:layout_width="10dp"
+                android:layout_height="wrap_content"
                 style="?android:attr/buttonBarButtonStyle" />
 
             <Button
                 android:id="@+id/a4"
-                android:layout_width="15pt"
-                android:layout_height="15pt"
+                android:layout_width="10dp"
+                android:layout_height="wrap_content"
+                style="?android:attr/buttonBarButtonStyle"
                 />
 
             <Button
                 android:id="@+id/a5"
-                android:layout_width="15pt"
-                android:layout_height="15pt"
+                android:layout_width="12dp"
+                android:layout_height="wrap_content"
+                style="?android:attr/buttonBarButtonStyle"
                 />
 
             <Button
                 android:id="@+id/a6"
-                android:layout_width="15pt"
-                android:layout_height="15pt"
+                android:layout_width="8dp"
+                android:layout_height="wrap_content"
+                style="?android:attr/buttonBarButtonStyle"
                 />
 
             <Button
